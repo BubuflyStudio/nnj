@@ -1,0 +1,7 @@
+{
+    "footer": "Powered By Bubufly Studio",
+    "list": [
+        { "title": "简要说明", "path": "readme.md" },
+        { "ttile": "策划初稿", "path": "策划初稿.md" }
+    ]
+}
